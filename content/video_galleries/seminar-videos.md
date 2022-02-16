@@ -1,6 +1,8 @@
 ---
 content_type: video_gallery
 is_media_gallery: true
+learning_resource_types: []
+ocw_type: CourseSection
 title: Seminar Videos
 uid: 455a63af-847a-73c4-481d-22ec0a886e33
 videos:

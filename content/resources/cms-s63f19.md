@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/cms-s63-playful-augmented-reality-audio-design-exploration-fall-2019/012b91c8fbb3d01295db57ff18b1c829_cms-s63f19.jpg
+file: /media/courses/cms-s63-playful-augmented-reality-audio-design-exploration-fall-2019/012b91c8fbb3d01295db57ff18b1c829_cms-s63f19.jpg
 file_type: image/jpeg
 image_metadata:
   caption: 'In this course, students design augmented reality experiences based on
@@ -9,6 +9,8 @@ image_metadata:
     License: CC0 Public Domain.)'
   credit: ''
   image-alt: Rainbow visualization of an audio wave.
+learning_resource_types: []
+ocw_type: OCWImage
 resourcetype: Image
 title: cms-s63f19.jpg
 uid: 012b91c8-fbb3-d012-95db-57ff18b1c829
