@@ -4,6 +4,7 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Seminar Videos
@@ -26,3 +27,6 @@ video_metadata:
 **Description:** Two students give their end-of-semester presentation on a prototype game they developed using the Bose AR system. They include a short demo and discuss building the prototype.
 
 **Speakers:** Gwen Edgar and Rio LaVigne
+
+
+

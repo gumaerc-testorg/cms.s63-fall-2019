@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/cms-s63-playful-augmented-reality-audio-design-exploration-fall-2019/8a2be30a5163560ca4a95321f39b99b2_cms-s63f19-th.jpg
+file: /courses/cms-s63-playful-augmented-reality-audio-design-exploration-fall-2019/8a2be30a5163560ca4a95321f39b99b2_cms-s63f19-th.jpg
 file_type: image/jpeg
 image_metadata:
   caption: 'In this course, students design augmented reality experiences based on

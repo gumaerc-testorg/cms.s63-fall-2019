@@ -4,6 +4,7 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Seminar Videos
@@ -26,3 +27,6 @@ video_metadata:
 **Description:** Artist and technologist Halsey Burgund talks about his work with audio augmented reality and answers questions from students. He includes a video discussing one of his installations at the deCordova Sculpture Park and Museum in Lincoln, MA.
 
 **Speaker:** Halsey Burgund
+
+
+

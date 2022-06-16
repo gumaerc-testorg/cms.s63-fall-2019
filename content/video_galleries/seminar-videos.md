@@ -1,5 +1,6 @@
 ---
 content_type: video_gallery
+description: 'Selected seminar videos for Playful Augmented Reality Audio Design Exploration. '
 is_media_gallery: true
 learning_resource_types: []
 ocw_type: CourseSection

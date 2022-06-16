@@ -4,6 +4,7 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Seminar Videos
@@ -26,3 +27,6 @@ video_metadata:
 **Description:** Students discuss two assigned reading papers in class on game design and critique theory.
 
 **Speaker:** Mikael Jakobsson
+
+
+

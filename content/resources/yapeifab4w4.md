@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/cms-s63-playful-augmented-reality-audio-design-exploration-fall-2019/09624e829e92eb691ca9489b3949f2c8_yaPEIFAb4W4.srt
+file: /courses/cms-s63-playful-augmented-reality-audio-design-exploration-fall-2019/09624e829e92eb691ca9489b3949f2c8_yaPEIFAb4W4.srt
 file_type: application/x-subrip
 learning_resource_types: []
 ocw_type: OCWFile
