@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: ''
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 title: Assignments
 uid: 45aa3441-f071-1b8b-955f-2ef5598afbac
 ---
@@ -22,7 +26,7 @@ Design Documents
 
 Teams choose one game idea to further develop and turn into a High Level Design Document. The HLDD needs an intended audience, prior research summary, a core concept, platform(s), setting, description of gameplay, and a time-plan.
 
-[High Level Design Document Template (PDF)]({{< baseurl >}}/resources/mitcms_s63f19_design-1) ([DOCX]({{< baseurl >}}/resources/mitcms_s63f19_design))
+{{% resource_link 5dfdd6b0-340f-c7a1-009c-ba572d7f1771 "High Level Design Document Template (PDF)" %}} ({{% resource_link 1a76d902-c8f8-b478-9c8e-ffadd57905dc "DOCX" %}})
 
 Design Documents with Playtests
 -------------------------------
