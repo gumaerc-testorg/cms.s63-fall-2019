@@ -32,7 +32,9 @@
   },
   "course_title": "Playful Augmented Reality Audio Design Exploration",
   "course_description": "Students explore augmented reality audio through the design and evaluation of prototypes. Participants will probe design space and illuminate creative possibilities. This includes productive, playful, and social applications, as well as the intersection between games and music. The course builds understanding of the limitations and strengths of iterative design and rapid prototyping as research methods, familiarizes students with the theoretical foundations of design exploration, and practices working with physical and digital materials.\n",
-  "department_numbers": [],
+  "department_numbers": [
+    "CMS-W"
+  ],
   "extra_course_numbers": "CMS.S99",
   "primary_course_number": "CMS.S63",
   "course_image_thumbnail": {
@@ -44,6 +46,7 @@
     "Demonstration Videos",
     "Design Assignments"
   ],
-  "site_uid": "43b00c4e-426d-4603-a312-8b0e726bff22",
+  "site_uid": "07ecaa24-5fd6-471c-a288-c9ccf74ac695",
+  "short_id": "cms.s63-fall-2019",
   "title": "Course Metadata"
 }
