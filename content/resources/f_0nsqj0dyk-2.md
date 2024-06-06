@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/cms-s63-playful-augmented-reality-audio-design-exploration-fall-2019/ac8f0b8c12595afbb84a8be1e522ed48_f_0NSQj0Dyk.vtt
+file_size: 103532
 file_type: application/x-subrip
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
