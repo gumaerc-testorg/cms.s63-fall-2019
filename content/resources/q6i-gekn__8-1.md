@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/cms-s63-playful-augmented-reality-audio-design-exploration-fall-2019/6116a2026484ec37108a81ee43d014d6_Q6i-gekn__8.pdf
+file: /courses/cms-s63-playful-augmented-reality-audio-design-exploration-fall-2019/6116a2026484ec37108a81ee43d014d6_Q6i-gekn__8.pdf
 file_size: 73017
 file_type: application/pdf
 learning_resource_types: []
