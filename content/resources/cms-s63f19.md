@@ -6,8 +6,8 @@ file_size: 11900
 file_type: image/jpeg
 image_metadata:
   caption: 'In this course, students design augmented reality experiences based on
-    audio. (Image courtesy of [Mick Lissone](https://www.publicdomainpictures.net/en/view-image.php?image=68532&picture=rainbow-light).
-    License: CC0 Public Domain.)'
+    audio. (Image courtesy of {{% resource_link "58514338-1d38-43ab-a9b6-8565cad35e74"
+    "Mick Lissone" %}}. License: CC0 Public Domain.)'
   credit: ''
   image-alt: Rainbow visualization of an audio wave.
 learning_resource_types: []
